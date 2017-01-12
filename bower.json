@@ -1,0 +1,20 @@
+{
+  "name": "atividade-workflow",
+  "description": "Atividade do Treinamento Certificação Bootstrap",
+  "main": "index.js",
+  "authors": [
+    "Jose Carlos de Camargo"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
